@@ -54,11 +54,15 @@ If you prefer to run the application from the source code, follow these steps:
 
 ## 🛠️ How to Use
 
+![File Organizer dialogue box](assets/File%20Organizer%20dialogue%20box.PNG)
+
 1.  **Select a Folder:** Click the "Browse" button to choose the folder you want to organize.
 
 2.  **Organize Files:** Click the "Organize Files" button.
 
 3.  **Done!** The application will create new sub-folders (e.g., `Images`, `Documents`) and move the corresponding files into them. A success message will appear once the process is complete.
+
+![File Organizing complete dialogue box](assets/File%20Organizing%20complete%20dialogue%20box.PNG)
 
 ## 🤝 Contributing
 
